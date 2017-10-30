@@ -1,0 +1,24 @@
+*{
+    background-image: url("guestbook.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+h1{
+    color:blue;
+}
+h2{
+    color: brown;
+}
+h3{
+    color:black;
+}
+header{
+    font-size:16pt;
+    text-align: center;
+    color: blueviolet;
+}
+h3{
+    color: brown;
+}

@@ -1,0 +1,23 @@
+{   "name": "AO3",
+    "version": "0.0.1",
+    "description": "simple guestbook app",
+    "main": "server.js",
+    "dependencies": {
+        "express": "latest",
+        "morgan": "latest",
+        "body-parser": "latest",
+        "ejs": "latest",
+        "mailgun-js": "latest"
+    },
+    "author": "Swathi Dasari",
+    "homepage": "https://bitbucket.org/DasariSwathi/a03dasari",
+    "repository": {
+        "type": "git",
+        "url": "https://bitbucket.org/DasariSwathi/a03dasari"
+    },
+     "license": "Apache-2.0"
+}
+
+
+
+

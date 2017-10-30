@@ -1,0 +1,23 @@
+
+h1
+{
+text-align: center;
+}
+section1
+{
+text-align: left;
+}
+section
+{
+text-align: center;
+}
+address
+{
+text-align: right;
+}	
+body
+{
+background-image: url("contact6.png");
+background-repeat: no-repeat;
+background-size: cover;
+}
